@@ -1,3 +1,6 @@
 [submodule "flutter_capstone-design"]
 	path = flutter_capstone-design
 	url = git@github.com:mingdu9/flutter_capstone-design.git
+[submodule "python_capstone_design"]
+	path = python_capstone_design
+	url = git@github.com:mingdu9/python_capstone_design.git
