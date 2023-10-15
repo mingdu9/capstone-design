@@ -43,3 +43,6 @@
 
 ### 메인 화면
 
+| <img src="https://i.imgur.com/zaKV2YM.png" width="200"/>| <img src="https://i.imgur.com/s48juw0.png" width="200"/> | <img src="https://i.imgur.com/m5ZRW25.png" width="200"/> |
+| --- | --- | --- |
+| <img src="https://i.imgur.com/GgP90Zo.png" width="200" /> |<img src="https://i.imgur.com/Lml5PSi.png" width="200" /> | |
